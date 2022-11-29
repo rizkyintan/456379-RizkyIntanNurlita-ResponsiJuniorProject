@@ -1,4 +1,5 @@
 ## Junior Project
 
-#### Rizky Intan Nurlita
-#### 20/456379/TK/50509
+#### Nama: Rizky Intan Nurlita
+#### NIM: 20/456379/TK/50509
+#### Sesi Praktikum: Rabu B
