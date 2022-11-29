@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rizky Intan Nurlita\\source\\Responsi\\Responsi\\Responsi.csproj",
+      "projectUniqueName": "C:\\Users\\Rizky Intan Nurlita\\Source\\Repos\\456379-RizkyIntanNurlita-ResponsiJuniorProject\\Responsi\\Responsi.csproj",
       "projectName": "Responsi",
-      "projectPath": "C:\\Users\\Rizky Intan Nurlita\\source\\Responsi\\Responsi\\Responsi.csproj",
+      "projectPath": "C:\\Users\\Rizky Intan Nurlita\\Source\\Repos\\456379-RizkyIntanNurlita-ResponsiJuniorProject\\Responsi\\Responsi.csproj",
       "packagesPath": "C:\\Users\\Rizky Intan Nurlita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rizky Intan Nurlita\\source\\Responsi\\Responsi\\obj\\",
+      "outputPath": "C:\\Users\\Rizky Intan Nurlita\\Source\\Repos\\456379-RizkyIntanNurlita-ResponsiJuniorProject\\Responsi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
